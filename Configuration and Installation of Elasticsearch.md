@@ -37,7 +37,7 @@ mkdir elasticsearch
 ls  
 travel to the folder using the command:  
 cd elasticsearch/  
-and we must edit the file now , go to [ELK-docker-compose.yml.yml](Building-a-SOC-with-Open-Source-tools/ELK-docker-compose.yml.yml) and copy and paste the contents to the file.
+and we must edit the file now , go to [ELK-docker-compose.yml.yml](/ELK-docker-compose.yml.yml) and copy and paste the contents to the file.
 
 
 
